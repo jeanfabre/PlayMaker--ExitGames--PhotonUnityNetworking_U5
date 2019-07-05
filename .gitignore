@@ -14,6 +14,12 @@
 /*.booproj
 /*.vs
 
+# JetBrains IDE
+/.idea
+Assets/Plugins/Editor/JetBrains.meta
+Assets/Plugins/Editor/JetBrains/
+
+
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
 
@@ -43,3 +49,4 @@ Assets/iTween.meta
 Assets/PlayMaker.meta
 Untitled.app
 Builds
+
